@@ -46,6 +46,10 @@ input {
     border: 0;
 	}
 
+#searchInput {
+	margin-left: 5px;
+}
+
 .navlink a {
     color: #bbbbbb;
     text-decoration: none;
